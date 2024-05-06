@@ -29,7 +29,7 @@ To install the Authentication System, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<Your_GitHub_Username>/authentication-system.git
+git clone https://github.com/NothDotNull/auth-api-JWT.git
 cd authentication-system
 ```
 
